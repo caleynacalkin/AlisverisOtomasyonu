@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\bin\Debug\InventProje.exe.config
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\bin\Debug\InventProje.exe
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\bin\Debug\InventProje.pdb
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\obj\Debug\InventProje.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\obj\Debug\InventProje.frmKayitEkle.resources
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\obj\Debug\InventProje.frmaAnaEkran.resources
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\obj\Debug\InventProje.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\obj\Debug\InventProje.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\obj\Debug\InventProje.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\obj\Debug\InventProje.exe
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\obj\Debug\InventProje.pdb
+C:\Users\user\source\repos\WindowsFormsApp21\InventProje\InventProje\obj\Debug\InventProje.frmSiparisKaydiListele.resources
